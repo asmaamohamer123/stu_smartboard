@@ -1,0 +1,1 @@
+const String urlBaseImage="gs://smart-board-9c23c.appspot.com";
